@@ -1,4 +1,4 @@
-const uppercaseString = require('./debugging')
+const uppercaseString = require('../src/debugging')
 
 test('uppercase', ()=>{
     expect(uppercaseString('hiiiii')).toBe('HIIIII')
