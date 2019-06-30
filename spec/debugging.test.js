@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 const uppercaseString = require('../src/debugging')
 
 test('uppercase', ()=>{

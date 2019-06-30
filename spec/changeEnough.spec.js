@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 const changeEnough = require('../src/changeEnough')
 
 test('change enough ', ()=>{

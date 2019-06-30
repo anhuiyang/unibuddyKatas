@@ -7,7 +7,6 @@ function uppercaseString(str) {
             if (charCode>=97&&charCode<123) {
                 let upperCasedChar = String.fromCharCode(charCode - 32);
                 uppercaseString += upperCasedChar;
-        
             } else {
             uppercaseString += str[i];
             }

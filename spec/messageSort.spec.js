@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 const messagesSort = require('../src/messagesSort')
 
 test('message sort1', ()=>{
